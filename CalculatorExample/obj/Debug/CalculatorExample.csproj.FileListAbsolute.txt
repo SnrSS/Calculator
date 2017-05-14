@@ -1,0 +1,9 @@
+J:\MY_C#_LEC\METOD_C#\CalculatorExample\CalculatorExample\obj\Debug\CalculatorExample.exe
+J:\MY_C#_LEC\METOD_C#\CalculatorExample\CalculatorExample\obj\Debug\CalculatorExample.pdb
+J:\MY_C#_LEC\METOD_C#\CalculatorExample\CalculatorExample\bin\Debug\CalculatorExample.exe
+J:\MY_C#_LEC\METOD_C#\CalculatorExample\CalculatorExample\bin\Debug\CalculatorExample.pdb
+J:\MY_C#_LEC\METOD_C#\CalculatorExample\CalculatorExample\obj\Debug\ResolveAssemblyReference.cache
+J:\MY_C#_LEC\METOD_C#\CalculatorExample\CalculatorExample\obj\Debug\Calculator.frmMain.resources
+J:\MY_C#_LEC\METOD_C#\CalculatorExample\CalculatorExample\obj\Debug\CalculatorExample.Properties.Resources.resources
+J:\MY_C#_LEC\METOD_C#\CalculatorExample\CalculatorExample\obj\Debug\ResGen.read.1.tlog
+J:\MY_C#_LEC\METOD_C#\CalculatorExample\CalculatorExample\obj\Debug\ResGen.write.1.tlog

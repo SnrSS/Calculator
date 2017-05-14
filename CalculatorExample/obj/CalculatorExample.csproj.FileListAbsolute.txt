@@ -1,0 +1,16 @@
+H:\MY_C#_LEC\CALCULATORS\CalculatorExample\CalculatorExample\obj\Debug\ResolveAssemblyReference.cache
+H:\MY_C#_LEC\CALCULATORS\CalculatorExample\CalculatorExample\obj\Debug\CalculatorExample.Properties.Resources.resources
+H:\MY_C#_LEC\CALCULATORS\CalculatorExample\CalculatorExample\obj\Debug\CalculatorExample.csproj.GenerateResource.Cache
+H:\MY_C#_LEC\CALCULATORS\CalculatorExample\CalculatorExample\bin\Debug\CalculatorExample.exe
+H:\MY_C#_LEC\CALCULATORS\CalculatorExample\CalculatorExample\bin\Debug\CalculatorExample.pdb
+H:\MY_C#_LEC\CALCULATORS\CalculatorExample\CalculatorExample\obj\Debug\CalculatorExample.exe
+H:\MY_C#_LEC\CALCULATORS\CalculatorExample\CalculatorExample\obj\Debug\CalculatorExample.pdb
+H:\MY_C#_LEC\CALCULATORS\CalculatorExample\CalculatorExample\obj\Debug\Calculator.frmMain.resources
+G:\MY_C#_LEC\CALCULATORS\CalculatorExample\CalculatorExample\obj\Debug\CalculatorExample.exe
+G:\MY_C#_LEC\CALCULATORS\CalculatorExample\CalculatorExample\obj\Debug\CalculatorExample.pdb
+G:\MY_C#_LEC\CALCULATORS\CalculatorExample\CalculatorExample\bin\Debug\CalculatorExample.exe
+G:\MY_C#_LEC\CALCULATORS\CalculatorExample\CalculatorExample\bin\Debug\CalculatorExample.pdb
+G:\MY_C#_LEC\CALCULATORS\CalculatorExample\CalculatorExample\obj\Debug\ResolveAssemblyReference.cache
+G:\MY_C#_LEC\CALCULATORS\CalculatorExample\CalculatorExample\obj\Debug\Calculator.frmMain.resources
+G:\MY_C#_LEC\CALCULATORS\CalculatorExample\CalculatorExample\obj\Debug\CalculatorExample.Properties.Resources.resources
+G:\MY_C#_LEC\CALCULATORS\CalculatorExample\CalculatorExample\obj\Debug\CalculatorExample.csproj.GenerateResource.Cache
